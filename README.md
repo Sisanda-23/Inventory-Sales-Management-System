@@ -5,7 +5,7 @@ This project demonstrates clean architecture, relational database design, and co
 
 ---
 
-## 🚀 Features
+## Features
 
 - Product management (add, view, update stock, delete)
 - Customer management with search functionality
@@ -16,7 +16,7 @@ This project demonstrates clean architecture, relational database design, and co
 
 ---
 
-## 🧱 Architecture
+## Architecture
 
 The application follows a clean, layered architecture:
 
@@ -29,7 +29,7 @@ This separation improves maintainability and scalability.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - C# (.NET)
 - SQLite
@@ -38,7 +38,7 @@ This separation improves maintainability and scalability.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository
 2. Open the solution in Visual Studio
@@ -48,7 +48,7 @@ This separation improves maintainability and scalability.
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 - Designing and implementing relational databases
 - Writing clean, maintainable C# code
@@ -59,7 +59,7 @@ This separation improves maintainability and scalability.
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add database transactions for order processing
 - Implement reporting (sales summaries, top products)
